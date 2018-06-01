@@ -48,4 +48,15 @@ dependencies: \
   /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h \
   /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKCoreKit.framework/Headers/FBSDKCopying.h \
   /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h \
-  /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h
+  /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h \
+  /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKLoginKit.framework/Modules/module.modulemap \
+  /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKLoginKit.framework/Headers/FBSDKLoginTooltipView.h \
+  /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKLoginKit.framework/Headers/FBSDKLoginManagerLoginResult.h \
+  /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKLoginKit.framework/Headers/FBSDKLoginConstants.h \
+  /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKLoginKit.framework/Headers/FBSDKTooltipView.h \
+  /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKLoginKit.framework/Headers/FBSDKLoginManager.h \
+  /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKLoginKit.framework/Headers/FBSDKLoginButton.h \
+  /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKLoginKit.framework/Headers/FBSDKDeviceLoginManagerResult.h \
+  /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKLoginKit.framework/Headers/FBSDKDeviceLoginManager.h \
+  /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKLoginKit.framework/Headers/FBSDKDeviceLoginCodeInfo.h \
+  /Users/torrelocascio/Documents/TorresStuff/ComputerProgramming/reactnative/datestream/ios/FBSDKLoginKit.framework/Headers/FBSDKLoginKit.h
